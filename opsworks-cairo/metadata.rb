@@ -1,5 +1,5 @@
 name        "opsworks-cairo"
-description "Extras for cairo node install"
+description "Cairo lib and extra image processing libs"
 maintainer  "AKQA"
 license     "Apache 2.0"
 version     "1.0.0"

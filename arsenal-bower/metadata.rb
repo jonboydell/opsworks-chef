@@ -1,4 +1,4 @@
-name        "opsworks-node"
+name        "arsenal-bower"
 description ""
 maintainer  "AKQA"
 license     "Apache 2.0"

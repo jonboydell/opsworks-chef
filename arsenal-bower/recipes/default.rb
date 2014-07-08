@@ -1,7 +1,7 @@
 script "install bower" do
 	interpreter "bash"
 	user "root"
-	cwd node[:deploy]['arsenal_image_maker'][:deploy_to]
+	cwd "/srv/www/arsenal_image_maker/current"
 	code <<-EOH
 		echo 'installing to #{node[:deploy]['arsenal_image_maker'][:deploy_to]}'
 		echo 'installing npm'

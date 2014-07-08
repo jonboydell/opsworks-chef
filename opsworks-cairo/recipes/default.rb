@@ -14,6 +14,3 @@ end
 
 package "g++" do
 end
-
-package "ruby-sass" do
-end

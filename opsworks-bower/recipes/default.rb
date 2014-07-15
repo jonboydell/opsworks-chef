@@ -1,3 +1,6 @@
+package "ruby-sass" do
+end
+
 cookbook_file "/tmp/install-bower.sh" do
   source "install-bower.sh"
   mode 0755

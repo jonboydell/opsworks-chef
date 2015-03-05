@@ -1,5 +1,0 @@
-name        "opsworks-shell"
-description "Cookbook for testing things"
-maintainer  "AKQA"
-license     "Apache 2.0"
-version     "1.0.0"
